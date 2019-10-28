@@ -1,0 +1,25 @@
+{
+  "name": "http-wx",
+  "version": "1.0.0",
+  "description": "a http client for wx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyjian/http-wx.git"
+  },
+  "keywords": [
+    "wechat",
+    "wx",
+    "http",
+    "bot"
+  ],
+  "author": "w.c.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyjian/http-wx/issues"
+  },
+  "homepage": "https://github.com/iyjian/http-wx#readme"
+}
